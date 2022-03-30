@@ -1,3 +1,8 @@
 # e-commerce-backend
 
-![This is an image](https://github.com/ojc011/e-commerce-backend/blob/main/walk-thru-vids/GET%20all.gif?raw=true)
+![Getting app up and running](https://user-images.githubusercontent.com/52935369/160733982-bb9a84c8-6e31-4f12-9a68-f0867ddf94a8.gif)
+![GET all](https://github.com/ojc011/e-commerce-backend/blob/main/walk-thru-vids/GET%20all.gif?raw=true)
+![GET by ID](https://github.com/ojc011/e-commerce-backend/blob/main/walk-thru-vids/GET%20by%20ID.gif?raw=true)
+![POST PUT DELETE categories](https://github.com/ojc011/e-commerce-backend/blob/main/walk-thru-vids/POST%20PUT%20DELETE%20Categories.gif?raw=true)
+![POST PUT DELETE tags and products](https://github.com/ojc011/e-commerce-backend/blob/main/walk-thru-vids/POST%20PUT%20DELETE%20Tags%20and%20Products.gif?raw=true)
+
